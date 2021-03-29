@@ -1,5 +1,6 @@
 # Introducción a los microcontroladores
-Este es un repositorio no oficial de la materia de micros, impartida por el profesor Perez Perez de la ESCOM. La materia se impartió en la modalidad a distancia. En verdad espero que te sea de utilidad y te deseo lo mejor camarada marinero.  
+Este es un repositorio no oficial de la materia de micros, impartida por el profesor Perez Perez de la ESCOM. La materia se impartió en la modalidad a distancia.  
+En verdad espero que te sea de utilidad y te deseo lo mejor camarada marinero.🤠
 
 **Programa:** ESCOM ISC Plan 2009  
 **Materia:** Introducción a los microcontroladores  
