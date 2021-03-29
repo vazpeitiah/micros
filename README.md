@@ -11,7 +11,7 @@ Este es un repositorio no oficial de la materia de micros, impartida por el prof
 Para este curso se utilizó el microcontrolador ATmega8535, el cual está basado en la arquitectura RISC. Para ver más información acerca del micro, puede acceder a la siguiente página: [MicroChip Atmega8535](https://www.microchip.com/wwwproducts/en/ATmega8535)
 
 ## AVR Studio
-El profesor utiliza AVR Studio 4, en su Version 4.13 Service Pack 2, para el desarrollo de las practicas. El cual puede ser descargado del siguiente enlace oficial [MicroChip Downloads](https://www.microchip.com/mplab/avr-support/avr-and-sam-downloads-archive).
+El profesor utiliza AVR Studio 4, en su Version 4.13, para el desarrollo de las practicas. El cual puede ser descargado del siguiente enlace oficial [MicroChip Downloads](https://www.microchip.com/mplab/avr-support/avr-and-sam-downloads-archive).
 
 ## Lista de ejercicios
 | Nombre | Descripción | Fecha |
