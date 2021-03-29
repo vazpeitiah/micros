@@ -19,8 +19,8 @@ El profesor utiliza AVR Studio 4, en su Version 4.13 Service Pack 2, para el des
 📝 Ejercicio 1 | Multiplicar el valor de 2 registros sin la instrucción `mul` | 26 Mar 2021
 
 ## Otros repositorios de la materia de Micros 
-- [Micros Perez Perez (2020-1) - por Zait06](https://github.com/Zait06/Microcontroladores-ESCOM)
-- [Micros Victor Hugo (2019-2) - por vicelo14](https://github.com/vicleo14/MicrosVH)
-- [Micros Victor Hugo (2019-2) - por RandyViG](https://github.com/RandyViG/Microcontroladores)
+- [Micros Perez Perez (2020-1)](https://github.com/Zait06/Microcontroladores-ESCOM) - por Zait06 ⭐
+- [Micros Victor Hugo (2019-2)](https://github.com/vicleo14/MicrosVH) - por vicelo14
+- [Micros Victor Hugo (2019-2)](https://github.com/RandyViG/Microcontroladores) - por RandyViG
 
-En verdad espero que te sea de utilidad y te deseo lo mejor camarada marinero.🤠
+En verdad espero que te sea de utilidad y te deseo lo mejor camarada marinero! 💛
