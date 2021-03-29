@@ -1,6 +1,5 @@
 # Introducción a los microcontroladores
 Este es un repositorio no oficial de la materia de micros, impartida por el profesor Perez Perez de la ESCOM. La materia se impartió en la modalidad a distancia.  
-En verdad espero que te sea de utilidad y te deseo lo mejor camarada marinero.🤠
 
 **Programa:** ESCOM ISC Plan 2009  
 **Materia:** Introducción a los microcontroladores  
@@ -18,3 +17,5 @@ El profesor utiliza AVR Studio 4, en su Version 4.13 Service Pack 2, para el des
 | Nombre | Descripción | Fecha |
 |---|---|---|
 📝 Ejercicio 1 | Multiplicar el valor de 2 registros sin la instrucción `mul` | 26 Mar 2021
+
+En verdad espero que te sea de utilidad y te deseo lo mejor camarada marinero.🤠
