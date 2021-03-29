@@ -5,7 +5,7 @@ Este es un repositorio no oficial de la materia de micros, impartida por el prof
 **Materia:** Introducción a los microcontroladores  
 **Grupo:** 3CM17  
 **Profesor:** Juan José Pérez Pérez  
-**Período escolar:** Feb 2021 - Jun 2021 Modalidad Online  
+**Período escolar:** 2021-2 (Feb 2021 - Jun 2021) Modalidad Online  
 
 ## ATmega8535
 Para este curso se utilizó el microcontrolador ATmega8535, el cual está basado en la arquitectura RISC. Para ver más información acerca del micro, puede acceder a la siguiente página: [MicroChip Atmega8535](https://www.microchip.com/wwwproducts/en/ATmega8535)
