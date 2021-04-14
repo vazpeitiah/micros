@@ -13,6 +13,9 @@ Para este curso se utilizó el microcontrolador ATmega8535, el cual está basado
 ## AVR Studio
 El profesor utiliza AVR Studio 4, en su Version 4.13, para el desarrollo de las practicas. El cual puede ser descargado del siguiente enlace oficial [MicroChip Downloads](https://www.microchip.com/mplab/avr-support/avr-and-sam-downloads-archive).
 
+## Proteus 8 Professional
+Para la simulación de las prácticas y ejercicios, el profesor utiliza Proteus 8 Profesional. Lo puedes descargar desde [este enlace](https://drive.google.com/file/d/1xpweVqvqQugloYkt7xuNSiQNoQ9ARY2f/view).
+
 ## Tareas y prácticas
 | Nombre | Descripción | Fecha de entrega |
 |---|---|---|
