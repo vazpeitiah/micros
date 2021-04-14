@@ -13,12 +13,12 @@ Para este curso se utilizó el microcontrolador ATmega8535, el cual está basado
 ## AVR Studio
 El profesor utiliza AVR Studio 4, en su Version 4.13, para el desarrollo de las practicas. El cual puede ser descargado del siguiente enlace oficial [MicroChip Downloads](https://www.microchip.com/mplab/avr-support/avr-and-sam-downloads-archive).
 
-## Lista de ejercicios
+## Tareas y prácticas
 | Nombre | Descripción | Fecha de entrega |
 |---|---|---|
 📝 Tarea 1 | Multiplicar el valor de 2 registros sin la instrucción `mul` | 26 Mar 2021
 📝 Tarea 2 | Mostrar valor hexadecimal de un ASCII | 09 Abr 2021
-📝 Tarea 3 | Calcular la raíz cuandrada de un número | 11 Abr 2021
+📝 Tarea 3 | Calcular la raíz cuandrada de un número | 14 Abr 2021
 
 ## Otros repositorios de la materia de Micros 
 - [Micros Perez Perez (2020-1)](https://github.com/Zait06/Microcontroladores-ESCOM) - por Zait06 ⭐
