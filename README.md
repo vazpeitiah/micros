@@ -11,7 +11,7 @@ Este es un repositorio no oficial de la materia de micros, impartida por el prof
 Para este curso se utilizó el microcontrolador ATmega8535, el cual está basado en la arquitectura RISC. Para ver más información acerca del micro, puede acceder a la siguiente página: [MicroChip Atmega8535](https://www.microchip.com/wwwproducts/en/ATmega8535)
 
 ## AVR Studio
-El profesor utiliza AVR Studio 4, en su Version 4.13, para el desarrollo de las practicas. El cual puede ser descargado del siguiente enlace oficial [MicroChip Downloads](https://www.microchip.com/mplab/avr-support/avr-and-sam-downloads-archive).
+El profesor utiliza AVR Studio 4, en su Versión 4.13, para el desarrollo de las prácticas. El cual puede ser descargado del siguiente enlace oficial [MicroChip Downloads](https://www.microchip.com/mplab/avr-support/avr-and-sam-downloads-archive).
 
 ## Proteus 8 Professional
 Para la simulación de las prácticas y ejercicios, el profesor utiliza Proteus 8 Profesional. Lo puedes descargar desde [este enlace](https://drive.google.com/file/d/1xpweVqvqQugloYkt7xuNSiQNoQ9ARY2f/view). Para saber como instalarlo correctamente puedes visitar el [siguiente video](https://youtu.be/Rru48DApb_o)
@@ -21,7 +21,7 @@ Para la simulación de las prácticas y ejercicios, el profesor utiliza Proteus 
 |---|---|---|
 📝 Tarea 1 | Multiplicar el valor de 2 registros sin la instrucción `mul` | 26 Mar 2021
 📝 Tarea 2 | Mostrar valor hexadecimal de un ASCII | 09 Abr 2021
-📝 Tarea 3 | Calcular la raíz cuandrada de un número | 14 Abr 2021
+📝 Tarea 3 | Calcular la raíz cuadrada de un número | 14 Abr 2021
 
 ## Otros repositorios de la materia de Micros 
 - [Micros Perez Perez (2020-1)](https://github.com/Zait06/Microcontroladores-ESCOM) - por Zait06 ⭐
