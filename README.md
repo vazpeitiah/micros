@@ -22,7 +22,7 @@ Para la simulación de las prácticas y ejercicios, el profesor utiliza Proteus 
 📝 Tarea 1 | Multiplicar el valor de 2 registros sin la instrucción `mul` | 26 Mar 2021
 📝 Tarea 2 | Mostrar valor hexadecimal de un ASCII | 09 Abr 2021
 📝 Tarea 3 | Calcular la raíz cuadrada de un número | 14 Abr 2021
-
+📝 Tarea 4 | Decodificador Hexadecimal | 16 Abr 2021
 ## Otros repositorios de la materia de Micros 
 - [Micros Perez Perez (2020-1)](https://github.com/Zait06/Microcontroladores-ESCOM) - por Zait06 ⭐
 - [Micros Victor Hugo (2019-2)](https://github.com/vicleo14/MicrosVH) - por vicelo14
