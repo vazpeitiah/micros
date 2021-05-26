@@ -26,7 +26,7 @@ Para la simulación de las prácticas y ejercicios, el profesor utiliza Proteus 
 📝 Tarea 5 (en equipo) | Contador decimal | 25 Abr 2021
 📝 Tarea 6 | Muestra dos números en display multiplexado | 28 Abr 2021
 📝 Tarea 7 | Dado (ejercicio propuesto) | 11 May 2021
-📝 Tarea 8 | Mostrar mensaje en displays multiplexados con `.db` y `LDI` | 17 May 2021
+📝 Tarea 8 | Mostrar mensaje en displays multiplexados con `.db` y `LMP` | 17 May 2021
 
 ## Otros repositorios de la materia de Micros 
 - [Micros Perez Perez (2020-1)](https://github.com/Zait06/Microcontroladores-ESCOM) - por Zait06 ⭐
