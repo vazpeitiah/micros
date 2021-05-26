@@ -29,6 +29,7 @@ Para la simulación de las prácticas y ejercicios, el profesor utiliza Proteus 
 
 ## Otros repositorios de la materia de Micros 
 - [Micros Perez Perez (2020-1)](https://github.com/Zait06/Microcontroladores-ESCOM) - por Zait06 ⭐
+- [Micros Perez Perez](https://github.com/IrvingGuerra/Introduccion-a-los-Microcontroladores) - por IrvingGuerra
 - [Micros Victor Hugo (2019-2)](https://github.com/vicleo14/MicrosVH) - por vicelo14
 - [Micros Victor Hugo (2019-2)](https://github.com/RandyViG/Microcontroladores) - por RandyViG
 
